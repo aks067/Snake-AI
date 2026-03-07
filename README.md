@@ -13,7 +13,6 @@ SnakeAI/
 ├── model.py     # Neural network (LinearQNet) + QTrainer
 ├── agent.py     # DQN agent (ε-greedy, replay memory)
 ├── train.py     # Training loop
-├── snake.py     # Human-playable version
 └── model.pth    # Saved model weights (generated after training)
 ```
 
