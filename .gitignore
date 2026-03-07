@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+model.pth
+
+# VS Code
+.vscode/
+
+EXPLICATIONS.md
