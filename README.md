@@ -9,7 +9,7 @@ Built with **Python**, **PyTorch** and **Pygame**.
 
 ```
 SnakeAI/
-├── game.py      # Snake environment (logic + pygame rendering)
+├── snake.py      # Snake environment (logic + pygame rendering)
 ├── model.py     # Neural network (LinearQNet) + QTrainer
 ├── agent.py     # DQN agent (ε-greedy, replay memory)
 ├── train.py     # Training loop
