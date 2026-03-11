@@ -6,7 +6,9 @@ Built with **Python**, **PyTorch** and **Pygame**.
 ---
 
 
-![](https://github.com/aks067/Snake-AI/blob/main/Training%20AI.gif)
+<p align="center">
+  <img src="Training AI.gif" alt="animated"/>
+</p>
 
 ---
 
