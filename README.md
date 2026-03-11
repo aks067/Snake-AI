@@ -4,6 +4,9 @@ A Snake game where an AI agent learns to play using **Deep Reinforcement Learnin
 Built with **Python**, **PyTorch** and **Pygame**.
 
 ---
+#Training Example:
+![](https://github.com/aks067/Snake-AI/blob/main/Training%20AI.gif)
+
 
 ## Architecture
 
